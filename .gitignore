@@ -1,0 +1,5 @@
+lineardb_to_indexeddb
+indexeddb_to_lineardb
+foo.*
+bar.*
+baz.*
